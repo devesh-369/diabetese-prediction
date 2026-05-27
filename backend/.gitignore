@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML
+*.pkl
+*.joblib
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Vite
+dist/
+
+# OS
+.DS_Store
